@@ -1,4 +1,4 @@
 # TIL
 TIL Repository
 
-[Day 1 README](Day1/intro.mdd)
+[Day 1 README](Day1/README.md)
