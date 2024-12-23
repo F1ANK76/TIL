@@ -6,3 +6,4 @@
 - [TIL Day 3](TIL/241218_TIL.md)
 - [TIL Day 4](TIL/241219_TIL.md)
 - [TIL Day 5](TIL/241220_TIL.md)
+- [TIL Day 6](TIL/241223_TIL.md)
