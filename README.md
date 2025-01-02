@@ -12,3 +12,4 @@
 - [TIL Day 9](TIL/241227_TIL.md)
 - [TIL Day 10](TIL/241230_TIL.md)
 - [TIL Day 11](TIL/241231_TIL.md)
+- [TIL Day 12](TIL/250102_TIL.md)
