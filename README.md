@@ -14,3 +14,4 @@
 - [TIL Day 11](TIL/241231_TIL.md)
 - [TIL Day 12](TIL/250102_TIL.md)
 - [TIL Day 13](TIL/250103_TIL.md)
+- [TIL Day 14](TIL/250106_TIL.md)
