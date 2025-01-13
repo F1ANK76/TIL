@@ -19,3 +19,4 @@
 - [TIL Day 16](TIL/250108_TIL.md)
 - [TIL Day 17](TIL/250109_TIL.md)
 - [TIL Day 18](TIL/250110_TIL.md)
+- [TIL Day 19](TIL/250113_TIL.md)
