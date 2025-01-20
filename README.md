@@ -24,3 +24,4 @@
 - [TIL Day 21](TIL/250115_TIL.md)
 - [TIL Day 22](TIL/250116_TIL.md)
 - [TIL Day 23](TIL/250117_TIL.md)
+- [TIL Day 24](TIL/250120_TIL.md)
