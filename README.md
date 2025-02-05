@@ -33,3 +33,4 @@
 - [TIL Day 30](TIL/250131_TIL.md)
 - [TIL Day 31](TIL/250203_TIL.md)
 - [TIL Day 32](TIL/250204_TIL.md)
+- [TIL Day 33](TIL/250205_TIL.md)
