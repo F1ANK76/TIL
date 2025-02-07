@@ -35,4 +35,4 @@
 - [TIL Day 32](TIL/250204_TIL.md)
 - [TIL Day 33](TIL/250205_TIL.md)
 - [TIL Day 34](TIL/250206_TIL.md)
-- [TIL Day 35](TIL/250206_TIL.md)
+- [TIL Day 35](TIL/250207_TIL.md)
