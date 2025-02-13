@@ -38,3 +38,5 @@
 - [TIL Day 35](TIL/250207_TIL.md)
 - [TIL Day 36](TIL/250210_TIL.md)
 - [TIL Day 37](TIL/250211_TIL.md)
+- [TIL Day 38](TIL/250212_TIL.md)
+- [TIL Day 39](TIL/250213_TIL.md)
