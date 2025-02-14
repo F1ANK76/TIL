@@ -40,3 +40,4 @@
 - [TIL Day 37](TIL/250211_TIL.md)
 - [TIL Day 38](TIL/250212_TIL.md)
 - [TIL Day 39](TIL/250213_TIL.md)
+- [TIL Day 40](TIL/250214_TIL.md)
