@@ -42,3 +42,5 @@
 - [TIL Day 39](TIL/250213_TIL.md)
 - [TIL Day 40](TIL/250214_TIL.md)
 - [TIL Day 41](TIL/250217_TIL.md)
+- [TIL Day 42](TIL/250218_TIL.md)
+- [TIL Day 43](TIL/250219_TIL.md)
