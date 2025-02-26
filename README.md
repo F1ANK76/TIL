@@ -48,3 +48,4 @@
 - [TIL Day 45](TIL/250221_TIL.md)
 - [TIL Day 46](TIL/250224_TIL.md)
 - [TIL Day 47](TIL/250225_TIL.md)
+- [TIL Day 48](TIL/250226_TIL.md)
