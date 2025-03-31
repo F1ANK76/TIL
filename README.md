@@ -70,3 +70,4 @@
 - [TIL Day 67](TIL/250326_TIL.md)
 - [TIL Day 68](TIL/250327_TIL.md)
 - [TIL Day 69](TIL/250328_TIL.md)
+- [TIL Day 70](TIL/250331_TIL.md)
