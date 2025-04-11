@@ -78,3 +78,5 @@
 - [TIL Day 75](TIL/250407_TIL.md)
 - [TIL Day 76](TIL/250408_TIL.md)
 - [TIL Day 77](TIL/250409_TIL.md)
+- [TIL Day 78](TIL/250410_TIL.md)
+- [TIL Day 79](TIL/250411_TIL.md)
