@@ -94,3 +94,6 @@
 - [TIL Day 91](TIL/250429_TIL.md)
 - [TIL Day 92](TIL/250430_TIL.md)
 - [TIL Day 93](TIL/250501_TIL.md)
+- [TIL Day 94](TIL/250502_TIL.md)
+- [TIL Day 95](TIL/250507_TIL.md)
+- [TIL Day 96](TIL/250508_TIL.md)
