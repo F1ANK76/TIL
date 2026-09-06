@@ -1,2 +1,2 @@
-# TIL
-**KSG TIL Repository**
+# CS & TIL
+**KSG CS & TIL Repository**
